@@ -46,7 +46,7 @@ The dataset includes:
 - `churn_analysis.ipynb` – Data cleaning, EDA, feature engineering & modeling  
 - `churn_queries.sql` – SQL queries for KPI extraction  
 - `sql_insights.md` – SQL findings & explanations  
-- `Retention_strategy.md` – Business retention recommendations  
+- `Retention_Strategy.md` – Business retention recommendations  
 - `customer_churn.csv` – Dataset  
 - `churn_overview.png` – Executive dashboard  
 - `segment_risk.png` – Risk segmentation dashboard  
@@ -132,3 +132,4 @@ This project demonstrates:
 
 ## 💼 Professional Value
 This project highlights practical, business-oriented analytics skills aligned with Data Analyst, Business Analyst, and entry-level Data Science roles.
+
