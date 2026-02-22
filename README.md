@@ -57,7 +57,7 @@ Customer churn directly impacts recurring revenue. The objectives are:
 ![Retention Opportunities](retention_opportunities.png)
 
 ## 🧠 Retention Strategy
-See [Retention Strategy](retention_strategy.md) for actionable recommendations:
+See [Retention Strategy](Retention_Strategy.md) for actionable recommendations:
 - Convert month-to-month customers to yearly plans with incentives
 - Target high-value, high-risk customers with discounts & loyalty rewards
 - Proactively engage new customers to improve onboarding
@@ -72,3 +72,4 @@ This project demonstrates:
 
 
 **Ready for:** Data Analyst, Business Analyst, or entry-level Data Science roles.
+
