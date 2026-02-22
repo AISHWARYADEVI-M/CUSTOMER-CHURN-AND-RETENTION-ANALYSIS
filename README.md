@@ -48,16 +48,16 @@ Customer churn directly impacts recurring revenue. The objectives are:
 **Power BI Dashboard Screenshots:**
 
 **1️⃣ Executive Overview**  
-![Executive Overview](dashboard/churn_overview.png)
+![Executive Overview](churn_overview.png)
 
 **2️⃣ Segment Risk Analysis**  
-![Segment Risk](dashboard/segment_risk.png)
+![Segment Risk](segment_risk.png)
 
 **3️⃣ Retention Opportunities**  
-![Retention Opportunities](dashboard/retention_opportunities.png)
+![Retention Opportunities](retention_opportunities.png)
 
 ## 🧠 Retention Strategy
-See [Retention Strategy](reports/retention_strategy.txt) for actionable recommendations:
+See [Retention Strategy](retention_strategy.md) for actionable recommendations:
 - Convert month-to-month customers to yearly plans with incentives
 - Target high-value, high-risk customers with discounts & loyalty rewards
 - Proactively engage new customers to improve onboarding
@@ -69,5 +69,6 @@ This project demonstrates:
 - Predictive modeling with business interpretation  
 - Visual storytelling for executives  
 - Actionable recommendations to reduce churn and protect revenue  
+
 
 **Ready for:** Data Analyst, Business Analyst, or entry-level Data Science roles.
