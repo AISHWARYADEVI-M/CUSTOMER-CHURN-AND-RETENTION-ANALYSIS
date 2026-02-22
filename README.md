@@ -11,6 +11,20 @@ Customer churn directly impacts recurring revenue. The objectives are:
 - Create executive dashboards
 - Recommend retention strategies to reduce churn
 
+## 📂 Dataset
+This project uses the **Telco Customer Churn Dataset** available on Kaggle:
+🔗 https://www.kaggle.com/datasets/blastchar/telco-customer-churn
+The dataset contains customer demographics, account information, services subscribed, and churn status.
+
+## 📁 Repository Structure
+- churn_analysis.ipynb — Data cleaning, EDA & modeling
+- sql_queries.sql — KPI extraction queries
+- sql_insights.md — SQL findings & explanations
+- Retention_Strategy.md — Business recommendations
+- churn_overview.png — Executive dashboard
+- segment_risk.png — Risk segmentation dashboard
+- retention_opportunities.png — Retention insights dashboard
+
 ## 🛠 Tools Used
 - **SQL (MySQL)** — KPI extraction and segmentation
 - **Python** — pandas, scikit-learn, matplotlib/seaborn for cleaning, EDA, and modeling
@@ -70,7 +84,8 @@ This project demonstrates:
 - Visual storytelling for executives  
 - Actionable recommendations to reduce churn and protect revenue  
 
+## 💼 Professional Value
+This project demonstrates practical business-focused analytics, predictive modeling, and executive communication skills aligned with Data Analyst and Business Analyst roles.
 
-**Ready for:** Data Analyst, Business Analyst, or entry-level Data Science roles.
 
 
