@@ -100,7 +100,7 @@ Customers with month-to-month contracts and higher monthly charges have signific
 ![Executive Overview](churn_overview.png)
 
 ### 2️⃣ Risk Segmentation  
-![Risk Segmentation](segmentation_risk.png)
+![Risk Segmentation](segment_risk.png)
 
 ### 3️⃣ Retention Opportunities  
 ![Retention Opportunities](retention_opportunities.png)
@@ -132,4 +132,5 @@ This project demonstrates:
 
 ## 💼 Professional Value
 This project highlights practical, business-oriented analytics skills aligned with Data Analyst, Business Analyst, and entry-level Data Science roles.
+
 
