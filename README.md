@@ -48,10 +48,8 @@ The dataset includes:
 - `sql_insights.md` – SQL findings & explanations  
 - `Retention_Strategy.md` – Business retention recommendations  
 - `customer_churn.csv` – Dataset  
-- `churn_overview.png` – Executive dashboard  
-- `segment_risk.png` – Risk segmentation dashboard  
-- `retention_opportunities.png` – Retention insights dashboard  
-- `customer_churn_dashboard.pbix` – Power BI dashboard file  
+- `POWERBI DASHBOARD.png` – PowerBI dashboard Page image
+- `Customer churn & analysis dashboard.pbix` – Power BI dashboard file  
 
 ---
 
@@ -96,14 +94,7 @@ Customers with month-to-month contracts and higher monthly charges have signific
 
 ## 📊 Dashboard Overview
 
-### 1️⃣ Executive Overview  
-![Executive Overview](churn_overview.png)
-
-### 2️⃣ Risk Segmentation  
-![Risk Segmentation](segment_risk.png)
-
-### 3️⃣ Retention Opportunities  
-![Retention Opportunities](retention_opportunities.png)
+![Customer churn & retention analysis](POWERBI DASHBOARD.png)
 
 ---
 
