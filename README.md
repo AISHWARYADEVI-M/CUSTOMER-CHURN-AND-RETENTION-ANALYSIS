@@ -94,7 +94,7 @@ Customers with month-to-month contracts and higher monthly charges have signific
 
 ## 📊 Dashboard Overview
 
-[Customer churn & retention analysis](POWERBI DASHBOARD.png)
+![Customer churn & retention analysis](POWERBI%20DASHBOARD.png)
 
 ---
 
